@@ -1,0 +1,25 @@
+
+.principio{
+ text-align: center;
+ background-color: green;
+ color: aliceblue;
+ font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.mayu{
+    text-transform: uppercase;
+}
+
+.actividad{
+    background-color: green;
+    color: aliceblue;
+}
+
+.fecha{
+    background-color: green;
+    color: aliceblue;
+}
